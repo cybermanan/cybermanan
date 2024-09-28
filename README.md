@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a student specializing in Red Teaming and Penetration Testing, with hands-on experience in CTF competitions. My focus is on offensive security, continuous learning, and applying my skills in real-world scenarios. Passionate about cybersecurity, I’m always seeking to expand my knowledge and contribute to the community
+I’m a student specializing in Penetration Testing, with hands-on experience in CTF competitions. My focus is on Deffensive security, continuous learning, and applying my skills in real-world scenarios. Passionate about cybersecurity, I’m always seeking to expand my knowledge and contribute to the community
 
 
 ## 🌐 Socials:
